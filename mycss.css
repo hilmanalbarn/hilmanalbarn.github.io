@@ -1,0 +1,27 @@
+ .jumbotron{
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+
+ #projects{
+	background-color: #e2edff;
+}
+
+
+footer a,a:hover{
+	color: white;
+	text-decoration: none;
+	color: white;
+}
+footer{
+	margin-bottom: -100px;
+}
+
+section{
+	padding-top: 5rem;
+}
+
+svg{
+	margin-bottom: -10px;
+}
